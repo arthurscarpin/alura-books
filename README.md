@@ -10,7 +10,7 @@ Esse é um Web Site estático responsivo da Alura Books, uma loja virtual de liv
 
 # 📕 Alura Books
 ![img-alura-books](https://github.com/user-attachments/assets/070f72eb-fae9-4a7d-9435-00b593451ca0)
-
+[Deploy Alura Books](https://arthurscarpin.github.io/alura-books/)
 
 ## 📄 Conceitos utilizados
 - HTML semantico.
